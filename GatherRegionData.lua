@@ -240,7 +240,7 @@ else
 	GatherRegionData[2][24] = { scale = 0.12837403412087, xoffset = 0.36837217317549, yoffset = 0.15464954319582, name = "Tirisfal" };
 	GatherRegionData[2][25] = { scale = 0.02727719546939, xoffset = 0.42973999245660, yoffset = 0.23815358517831, name = "Undercity" };
 	GatherRegionData[2][26] = { scale = 0.12215946583965, xoffset = 0.44270955019641, yoffset = 0.17471356786018, name = "WesternPlaguelands" };
-	GatherRegionData[2][27] = { scale = 0.09943208435841, xoffset = 0.36884571674582, yoffset = 0.71874918595783, name = "Westfall" };
+	GatherRegionData[2][35] = { scale = 0.09943208435841, xoffset = 0.36884571674582, yoffset = 0.71874918595783, name = "Westfall" };
 	GatherRegionData[2][28] = { scale = 0.11745423014662, xoffset = 0.46561438951659, yoffset = 0.40971063365152, name = "Wetlands" };
 end
 
