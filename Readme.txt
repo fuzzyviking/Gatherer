@@ -35,7 +35,12 @@ If you want to configure the addon, click the Gatherer configuration icon floati
 
 CHANGELOG (- done, = to test, + todo):
 ----------
-2.99.2
+2.2.3.3:
+========
+Fixed for Westfall
+
+2.2.3.2:
+========
 GathererUI - bug fix and ruRU localization
 
 2.2.3.1:
